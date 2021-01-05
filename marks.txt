@@ -1,0 +1,17 @@
+10
+9 5 2 3 45 6 7 6 2 1
+
+
+
+
+list of marks in sorted order is: 
+23	12	89	73	45	65	22	90	78	67	
+list of marks in sorted order is: 
+23	12	89	73	45	65	22	90	78	67	
+
+list of marks in sorted order is: 
+9	5	2	3	45	6	7	6	2	1	
+list of marks in sorted order is: 
+9	5	2	3	45	6	7	6	2	1	
+list of marks in sorted order is: 
+9	5	2	3	45	6	7	6	2	1	
